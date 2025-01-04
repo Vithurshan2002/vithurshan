@@ -1,4 +1,4 @@
-![MasterHead](https://www.pinterest.com/pin/fbc6f31bd3b84159470b973aca7e0f97gif-19201080-in-2024--31877109856995591/)
+![MasterHead](https://pngtree.com/freepng/coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration_15035827.html)
 <h1 align="center">Hi 👋, I'm Vithurshan</h1>
 <h3 align="center">A passionate FullStackDeveloper from Srilanka</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
